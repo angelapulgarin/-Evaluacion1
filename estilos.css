@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.section1 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+.tabla1 {
+    border-spacing: 10px;
+    height: 55%;
+    
+}
+
+button {
+    height: 30px;
+    width: 50px;
+    
+}
